@@ -1,0 +1,31 @@
+What is HTTP?
+
+HTTP is the HyperText Transfer Protocol is the foundation of the World Wide Web, and is used to load webpages using hypertext links. 
+It is an application layer protocol designed to transfer information between networked devices and runs on top of other layers of the network protocol stack. 
+
+Communication between client computers and web servers is done by sending HTTP Requests and receiving HTTP Responses.
+
+HTTP Requests include:
+(1) HTTP version type
+(2) a URL
+(3) an HTTP method
+(4) HTTP request headers
+(5) Optional HTTP body
+
+HTTP Response contains:
+(1) An HTTP  status code
+
+HTTP Status Code are 3-didgit codes most often used to indicate whether an HTTP request has been successfully cmplteed or not.
+These are:
+- 1xx Informational
+- 2xx Successs
+- 3xx Redirection
+- 4xx Client Error
+- 5xx Server Erroe
+
+(2) HTTP response headers
+(3) Optional HTTP body
+
+
+
+

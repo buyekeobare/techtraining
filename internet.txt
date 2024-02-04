@@ -1,0 +1,5 @@
+What is internet?
+The internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
+Each computer connected to the Internet is assigned a unique IP address (Internet Protocol) that allows the device to be recognized. 
+The DNS, Domain Name System is the phonebook of the internet. 
+Web browsers interact through IP addreses, while DNS translates domain names to IP addresses so browsers can load internt rsources.

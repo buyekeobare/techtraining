@@ -1,0 +1,3 @@
+Github is not the same as Git. Github is a code hosting platform for version Control and collaboration.
+It allows developers to work togteher from anywhere in the world.
+To operate on github, you need a Github account and internet access.

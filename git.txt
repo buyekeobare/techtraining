@@ -1,0 +1,57 @@
+Git is a free and open-source version control and is distributed. 
+It is used for tracking code changes, who made the changes and also coding collaboration.
+
+How Git works?
+- Create a "repository" (project) with a git hosting tool (like Bitbucket)
+- Copy (or clone) the repository to your local machine
+- Add a file to your local repo and "commit" (save) the changes
+- "Push" your changes to your main branch
+- Make a change to your file with a git hosting tool and commit
+- "Pull" the changes to your local machine
+- Create a "branch" (version), make a change, commit the change
+- Open a "pull request" (propose changes to the main branch)
+- "Merge" your branch to the main branch
+
+Some of the git commands include;
+git add
+Moves changes from the working directory to the staging area. 
+
+git checkout
+In addition to checking out old commits and old file revisions, git checkout is also the means to navigate existing branches. 
+
+git clone
+Creates a copy of an existing Git repository. 
+Cloning is the most common way for developers to obtain a working copy of a central repository.
+
+git commit
+Takes the staged snapshot and commits it to the project history. 
+Combined with git add, this defines the basic workflow for all Git users.
+
+git commit --amend
+Passing the --amend flag to git commit lets you amend the most recent commit.
+
+git config
+A convenient way to set configuration options for your Git installation. 
+
+git init
+Initializes a new Git repository. 
+
+git merge
+A powerful way to integrate changes from divergent branches. After forking the project history with the git branch, git merge lets you put it back together again.
+
+git pull
+Pulling is the automated version of git fetch. It downloads a branch from a remote repository, then immediately merges it into the current branch. 
+
+git push
+It lets you move a local branch to another repository, which serves as a convenient way to publish contributions. 
+
+git remote
+A convenient tool for administering remote connections. Instead of passing the full URL to the fetch, pull, and push commands, it lets you use a more meaningful shortcut.
+
+git reset
+Undoes changes to files in the working directory. 
+git revert
+Undoes a committed snapshot. When you discover a faulty commit, reverting is a safe and easy way to completely remove it from the code base.
+
+git status
+Displays the state of the working directory and the staged snapshot. 
